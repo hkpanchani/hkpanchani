@@ -1,8 +1,5 @@
-### Hi there, I'm Hiren Panchani - aka hkpanchani
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Experienced DevOps Engineer with a demonstrated history of working in the higher education industry. Skilled in DevOps, Cisco Systems Products, Programming, Programming Languages, and Computer Networking. Strong engineering professional with a Bachelor's degree focused in Computer Engineering.
+### Hi there, I'm Hiren Panchani - aka hkpanchani 👋
+  - Experienced DevOps Engineer with a demonstrated history of working in the higher education industry. Skilled in DevOps, Cisco Systems Products, Programming, Programming Languages, and Computer Networking. Strong engineering professional with a Bachelor's degree focused in Computer Engineering.
 
 ### Experience!
   - DevOps Engineer (Internship)
@@ -50,9 +47,9 @@ Experienced DevOps Engineer with a demonstrated history of working in the higher
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="vagrant" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/vagrant/vagrant.png" />
-<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
 <img align="left" alt="Composer" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/composer/composer.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
@@ -65,6 +62,8 @@ Experienced DevOps Engineer with a demonstrated history of working in the higher
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sublime-text/sublime-text.png" />
 
+<br />
+<br />
 
 ### Connect with me:
 
@@ -78,9 +77,9 @@ Experienced DevOps Engineer with a demonstrated history of working in the higher
 [<img align="left" alt="hkpanchani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
+<br />
 
 <img align="left" alt="hkpanchani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hkpanchani&show_icons=true&hide_border=true" />
-
 
 <br />
 <br />
