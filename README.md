@@ -50,6 +50,7 @@
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="vagrant" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/vagrant/vagrant.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
 <img align="left" alt="Composer" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/composer/composer.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
