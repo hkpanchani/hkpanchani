@@ -2,7 +2,7 @@
   - Experienced DevOps Engineer with a demonstrated history of working in the higher education industry. Skilled in DevOps, Cisco Systems Products, Programming, Programming Languages, and Computer Networking. Strong engineering professional with a Bachelor's degree focused in Computer Engineering.
 
 ### Experience!
-  - DevOps Engineer (Internship)
+  - DevSecOps Engineer (Internship)
     - RK University
       - Dec 2019 - Present
   - PHP Developer (Internship)
