@@ -80,7 +80,8 @@
 <br />
 <br />
 
-<img align="left" alt="hkpanchani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hkpanchani&show_icons=true&hide_border=true" />
+<a href="https://github.com/hkpanchani" ><img src="https://github-readme-stats.vercel.app/api?username=hkpanchani&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> </a>
+
 
 <br />
 <br />
